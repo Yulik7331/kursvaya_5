@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">kursvaya_4</string>
+    <string name="plus">+</string>
+    <string name="rovno">-</string>
+    <string name="ravno">*</string>
+    <string name="delit">/</string>
+</resources>
